@@ -1,0 +1,3 @@
+rootProject.name = 'mobilelegends'
+
+include ':app'
